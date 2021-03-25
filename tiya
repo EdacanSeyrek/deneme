@@ -34,9 +34,9 @@ config/master.key / dizi **
 config/master.key / komedi * 
 config/master.key / animasyon *
 config/master.key / shakespear *
-config/master.key / account / reklam / sponsor *10 / *10 / 10* / 10* / 10*
-config/master.key / sponsored ad / *10 /*10/*10 
-config/master.key./ OPEN
+config/master.key / account / reklam / sponsor *10 / *10 / 10* / 10* / 10* !!
+config/master.key / sponsored ad / *10 /*10/*10 * 
+config/master.key./ OPEN ! * 
 config/master.ke./ Open **
 
 
